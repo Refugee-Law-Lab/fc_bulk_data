@@ -9,7 +9,7 @@ Dataset & Code to be cited as:
 
     Sean Rehaag, "Federal Court Bulk Decisions Dataset" (2023), online: Refugee Law Laboratory <https://refugeelab.ca/bulk-data/fc/>.
 
-To load data, see load_and_analyze_fca_cases.ipynb
+To load data, see load_and_analyze_fc_cases.ipynb
 
 Notes:
 
@@ -19,7 +19,7 @@ Notes:
 
 (3) Non-Affiliation / Endorsement: The data has been collected and reproduced without any affiliation or endorsement from the Federal Court.
 
-(4) Non-Commerical Use: As indicated in the license, data may be used for non-commercial use (with attribution) only. For commercial use, see the Federal Court of Appeal website's [Terms of Use](https://www.fct-cf.gc.ca/en/pages/important-notices).
+(4) Non-Commerical Use: As indicated in the license, data may be used for non-commercial use (with attribution) only. For commercial use, see the Federal Court website's [Terms of Use](https://www.fct-cf.gc.ca/en/pages/important-notices).
 
 (5) Accuracy: Data was collected and processed programmatically for the purposes of academic research. While we make best efforts to ensure accuracy, data gathering of this kind inevitably involves errors. As such the data should be viewed as preliminary information aimed to prompt further research and discussion, rather than as definitive information. 
 
