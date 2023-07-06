@@ -9,7 +9,7 @@ Dataset & Code to be cited as:
 
     Sean Rehaag, "Federal Court Bulk Decisions Dataset" (2023), online: Refugee Law Laboratory <https://refugeelab.ca/bulk-data/fc/>.
 
-To load data, see load_and_analyze_fc_cases.ipynb
+To load data, see [load_and_analyze_fc_cases.ipynb](https://github.com/Refugee-Law-Lab/fc_bulk_data/blob/main/load_and_analyze_fc_cases.ipynb)
 
 Notes:
 
