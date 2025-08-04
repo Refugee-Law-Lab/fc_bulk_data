@@ -1,3 +1,17 @@
+# **DEPRECATION NOTICE**  
+
+⚠️ **This project is deprecated and is no longer being maintained or 
+monitored. The project has been transferred from the Refugee Law Lab
+to [Access to Algorithmic Justice](https://a2aj.ca).**
+
+For the current a2aj.ca version, please see:
+
+- Access methods for all [Canadian Legal Data](https://github.com/a2aj-ca/canadian-legal-data/tree/main)
+- Hugging Face access to [Canadian Case Law](https://huggingface.co/datasets/a2aj/canadian-case-law)
+- Hugging Face access to [Canadian Laws](https://huggingface.co/datasets/a2aj/canadian-laws) 
+
+---
+
 
 ### Repo for sharing, loading, and analyzing Federal Court (Canada) decisions programmatically
 
